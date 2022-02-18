@@ -124,8 +124,7 @@ body {
   h1 {
     color: white;
   }
-  input:focus ~ .floating-label,
-  input:not(:focus):valid ~ .floating-label {
+  input:focus ~ .floating-label{
     top: -15px;
     bottom: 0px;
     left: 12px;
