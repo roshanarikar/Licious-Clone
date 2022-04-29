@@ -1,34 +1,17 @@
-#Licious
-As a part of Unit-2 Construct Week Project. We have cloned Licious Website.
+![Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.YO-IDvne8HD2Q3S0j9cIJgHaFj%26pid%3DApi&f=1)
 
-# Demo Link : https://licious-clone.netlify.app/
 
-## About Project
+# Licious - Unit 2
 
-## Build With
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-  
-## Core Functionalities
-* Login/Signup
-* home page
-* Product Page
-* Add to cart
-* Checkout
-* Payment
+Licious is India's first D2C Unicorn, headquartered in Bengaluru, Karnataka, India. The company operates on a farm-to-fork model, owning the entire back-end supply chain and cold chain. It operates across Bengaluru, Hyderabad, Delhi, Gurugram, Faridabad, Noida, Mumbai, Pune, Chennai, Chandigarh, Jaipur, Coimbatore, Kochi, Visakhapatnam, Vijayawada, Pondicherry and Kolkata.
 
-# Quick Tour to our Project
-1. This is the landing page of our website.
 
-![This is the landing page of our page]()
+## Tech Stack
 
-2. This the shop by category page where the user can find all the products related to men's category.
+**Client:** HTML, CSS, JavaScript
 
-![This is the landing page of our page]()
 
-3. This the shop by category page where the user can find all the products related to women's category.
+## Demo
 
-![This is the landing page of our page]()
 
+Deployed Link:-  https://licious-clone.netlify.app/
