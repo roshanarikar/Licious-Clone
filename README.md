@@ -1,6 +1,34 @@
-# Licious-Clone
+# myfirstproject_licious
+As a part of Unit-2 Construct Week Project. We have cloned Licious Website.
 
-These are the three technologies that we used to clone the website. 
-while coming to that HTML and CSS are easy compared to JAVASCRIPT.
-it is very tougher than the other technologies. by using CSS we make the website 
-more pleasing as possible. There are a lot of efforts taken to implement these tactics
+# Demo Link : https://licious-clone.netlify.app/
+
+## About Project
+
+## Build With
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+  
+## Core Functionalities
+* Login/Signup
+* home page
+* Product Page
+* Add to cart
+* Checkout
+* Payment
+
+# Quick Tour to our Project
+1. This is the landing page of our website.
+
+![This is the landing page of our page]()
+
+2. This the shop by category page where the user can find all the products related to men's category.
+
+![This is the landing page of our page]()
+
+3. This the shop by category page where the user can find all the products related to women's category.
+
+![This is the landing page of our page]()
+
