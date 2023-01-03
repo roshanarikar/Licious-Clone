@@ -14,4 +14,4 @@ Licious is India's first D2C Unicorn, headquartered in Bengaluru, Karnataka, Ind
 ## Demo
 
 
-Deployed Link:-  https://licious-clone.netlify.app/
+Deployed Link:-  https://liciousclonee.netlify.app/
